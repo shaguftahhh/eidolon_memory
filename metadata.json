@@ -1,0 +1,8 @@
+{
+  "name": "Remix THE LAST MESSAGE — An Offline Memory Ghost",
+  "description": "EIDOLON — The Human Ghost Archive: An offline spectral memory sanctuary blending Día de los Muertos remembrance with open-weight AI archaeology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
